@@ -319,43 +319,8 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 - Scale with Kubernetes for production deployment.
 - Monitor with Prometheus/Grafana.
 
-For issues, refer to logs or open an issue in the repository.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   I 
-   
-
-
-
-
-   
-
-
-
-
-
-   
 
 
 
