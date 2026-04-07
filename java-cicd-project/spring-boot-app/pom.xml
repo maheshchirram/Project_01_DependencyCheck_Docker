@@ -79,7 +79,7 @@
     <!-- Nexus Repository Configuration -->
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>nexus-creds</id>
             <name>Nexus Releases</name>
             <url>http://15.134.142.21:8081/repository/maven-releases/</url>
         </repository>
