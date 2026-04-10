@@ -1,9 +1,5 @@
 🚀 Spring Boot Java CI/CD Pipeline (Customized for Your Setup)
 
-<img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/cb0214a3-6f8a-46d4-918a-aa485d1a182e" />
-
-
-
 
 👤 Project Owner
 DockerHub: mnlove (replace if needed)
