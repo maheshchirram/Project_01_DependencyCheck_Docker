@@ -79,14 +79,14 @@
     <!-- Nexus Repository Configuration -->
     <distributionManagement>
         <repository>
-            <id>nexus-creds</id>
+            <id>nexus</id>
             <name>Nexus Releases</name>
-            <url>http://15.134.142.21:8081/repository/maven-releases/</url>
+            <url>http://100.30.255.122:8081/repository/app-project/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>nexus</id>
             <name>Nexus Snapshots</name>
-            <url>http://15.134.142.21:8081/repository/maven-snapshots/</url>
+            <url>http://100.30.255.122:8081/repository/app-project/</url>
         </snapshotRepository>
     </distributionManagement>
 
